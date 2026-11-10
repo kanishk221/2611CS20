@@ -1,0 +1,1 @@
+[profile.default]\nsrc = "src"\ntest = "test"\nscript = "script"\nsolc_version = "0.8.24"\noptimizer = true\noptimizer_runs = 200\n

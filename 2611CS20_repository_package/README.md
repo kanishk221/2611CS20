@@ -1,8 +1,8 @@
 # 2611CS20 — Blockchain Assignment
 
 Name: **Kanishk Mishra**
-Roll number: **2611CS20**  
-GitHub account: **kanishk221**
+ 
+Roll number: **2611CS20**
 
 This repository groups the seven blockchain assignment projects into separate folders. Each folder contains its own source code, README, and supporting files.
 
